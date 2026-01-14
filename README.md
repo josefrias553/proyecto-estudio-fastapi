@@ -1,4 +1,4 @@
-# API Ventas Lácteos 🥛
+# API FacuApi - Proyecto de Estudio
 
 Proyecto educativo usando FastAPI + SQLAlchemy + PostgreSQL
 
